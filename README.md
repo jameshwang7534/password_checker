@@ -22,6 +22,7 @@ Make sure you have Python installed on your system. The program uses Tkinter, wh
    python password_checker.py
    ```
 4. Enter a password in the GUI and click "Check Password".
+5. The program will tell you if your password is secure!
 
 ## Limitations & Warnings
 - **No Advanced Security Checks**: The tool does not check for common passwords, dictionary words, or entropy-based security vulnerabilities.
